@@ -28,7 +28,7 @@ const chartOptions = ref({
 
 <template>
   <!-- <div class=""> -->
-  <Bar id="my-chart-id" :options="chartOptions" :data="chartData" class="" />
+  <Bar id="my-chart-id" :options="chartOptions" :data="chartData" />
 
   <!-- </div> -->
 </template>
