@@ -13,7 +13,7 @@ import BarChart from "@/components/BarChart.vue";
           </div>
           <button>
             <img
-              src="/public/xpense-images/logo.svg"
+              src="/xpense-images/logo.svg"
               alt=" switch-logo"
               class="h-12 w-12"
             />
